@@ -1,1 +1,37 @@
-{"sections": [ { "title": "Fundamentals", "file": "fundamentals/poker-basics.md" }, { "title": "Math", "file": "math/pot-odds.md" } ]}
+{
+  "version": 1,
+  "updatedAt": "2025-09-10T19:00:00Z",
+  "categories": [
+    {
+      "id": "fundamentals",
+      "title": "Fundamentale Grundlagen",
+      "lessons": [
+        {
+          "id": "poker-basics",
+          "title": "Poker Basics: Regeln & Abläufe",
+          "summary": "Starthände, Positionen, Setzrunden.",
+          "durationMinutes": 12,
+          "tags": ["Regeln", "Einsteiger"],
+          "markdownURL": "https://luca-nstn.github.io/nash-learning-content/content/fundamentals/poker-basics.md"
+        }
+      ]
+    },
+    {
+      "id": "math",
+      "title": "Mathematische Grundlagen",
+      "lessons": [
+        {
+          "id": "pot-odds",
+          "title": "Pot Odds & Implied Odds",
+          "summary": "Schnell richtige Calls finden.",
+          "durationMinutes": 10,
+          "tags": ["Mathe", "EV"],
+          "markdownURL": "https://luca-nstn.github.io/nash-learning-content/content/math/pot-odds.md"
+        }
+      ]
+    },
+    { "id": "strategy", "title": "Strategische Grundlagen", "lessons": [] },
+    { "id": "advanced", "title": "Fortgeschrittene Strategie", "lessons": [] },
+    { "id": "mindset", "title": "Psychologie & Mindset", "lessons": [] }
+  ]
+}
